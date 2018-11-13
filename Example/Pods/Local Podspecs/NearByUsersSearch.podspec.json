@@ -1,0 +1,22 @@
+{
+  "name": "NearByUsersSearch",
+  "version": "0.1.0",
+  "summary": "A short description of NearByUsersSearch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KalandarB_Contus/NearByUsersSearch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KalandarB_Contus": "kalandar.b@contus.in"
+  },
+  "source": {
+    "git": "https://github.com/KalandarB_Contus/NearByUsersSearch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NearByUsersSearch/Classes/**/*"
+}

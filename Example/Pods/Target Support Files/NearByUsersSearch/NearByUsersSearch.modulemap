@@ -1,0 +1,6 @@
+framework module NearByUsersSearch {
+  umbrella header "NearByUsersSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

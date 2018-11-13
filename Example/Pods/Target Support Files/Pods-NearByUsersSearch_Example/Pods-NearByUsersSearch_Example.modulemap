@@ -1,0 +1,6 @@
+framework module Pods_NearByUsersSearch_Example {
+  umbrella header "Pods-NearByUsersSearch_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
